@@ -1,0 +1,14 @@
+.fileuploadcontainer {
+    border:1px solid #efefef;
+    width:100%;
+    margin-top:10px;
+}
+
+.fileuploadcontainer .fileuploadheader {
+    text-align: center;
+    background-color:#dae0e5;
+}
+
+.fileuploadcontainer .fileuploadbody{
+
+}
