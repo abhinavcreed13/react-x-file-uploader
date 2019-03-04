@@ -1,6 +1,6 @@
 {
   "name": "react-x-file-uploader",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "description": "Simple react file uploader component for viewing and getting data from files",
   "main": "./lib/fileuploader.js",
   "license": "MIT",

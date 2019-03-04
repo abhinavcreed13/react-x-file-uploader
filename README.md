@@ -1,5 +1,7 @@
 ## React File Uploader
 
+[![NPM](https://nodei.co/npm/react-x-file-uploader.png)](https://nodei.co/npm/react-x-file-uploader/)
+
 ### Installation
 
 `npm install --save react-x-file-uploader`
