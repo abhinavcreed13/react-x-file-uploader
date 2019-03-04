@@ -53,8 +53,8 @@ export default App;
 
 Intially, drag-drop UI is created for dropping or choosing file.
 
-![Alt text](/img/drag_drop.png?raw=true "Drag-Drop UI")
+![Alt text](https://github.com/abhinavcreed13/react-x-file-uploader/blob/master/img/drag_drop.png "Drag-Drop UI")
 
 After file is selected, preview of the data is shown and subscribed event is triggered.
 
-![Alt text](/img/csv_data_sample.png?raw=true "Preview of CSV data")
+![Alt text](https://github.com/abhinavcreed13/react-x-file-uploader/blob/master/img/csv_data_sample.png "Preview of CSV data")
