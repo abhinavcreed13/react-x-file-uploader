@@ -15,7 +15,6 @@ class FileUploaderCSV extends Component {
         const reader = new FileReader();
         reader.onload = () => {
             csv.parse(reader.result, (err, data) => {
-                console.log(data);
                 this.setState({uploadStatus: true, datacsv: data});
                 this.props.onUpload(data);
             });
@@ -90,7 +89,6 @@ class FileUploaderCSV extends Component {
         //     borderStyle: 'solid',
         //     borderColor: '#c66',
         //     backgroundColor: '#eee'
-        // };
 
         return (
             <div className="container">
