@@ -51,6 +51,10 @@ class App extends Component {
 export default App;
 ```
 
-Intially, drag-drop UI is created for dropping or choosing file
+Intially, drag-drop UI is created for dropping or choosing file.
 
 ![Alt text](/img/drag_drop.png?raw=true "Drag-Drop UI")
+
+After file is selected, preview of the data is shown and subscribed event is triggered.
+
+![Alt text](/img/csv_data_sample.png?raw=true "Preview of CSV data")
