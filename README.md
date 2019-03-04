@@ -50,3 +50,7 @@ class App extends Component {
 
 export default App;
 ```
+
+Intially, drag-drop UI is created for dropping or choosing file
+
+![Alt text](/img/drag_drop.png?raw=true "Drag-Drop UI")
