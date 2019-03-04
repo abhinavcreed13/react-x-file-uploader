@@ -21,6 +21,10 @@ Then just renders it
 | type  | Sets type of file uploader 
 | onUpload  |      Sets subscribing function to provide read data
 
+### Supported Types
+
+- CSV
+
 ### Example
 
 ```
