@@ -12,7 +12,7 @@ First import this component where you want to use it
 
 `import FileUploader from 'react-x-file-uploader';`
 
-Then just renders it
+Then just render it
 
 `<FileUploader type='CSV' onUpload={this.onUploadHandler}/>`
 
